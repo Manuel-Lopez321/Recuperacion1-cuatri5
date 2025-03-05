@@ -1,5 +1,8 @@
 # Recuperacion-1
 
+# Documentacion de las actividades del curso de python en netacad.
+https://docs.google.com/document/d/1kaWD7BegsnmNgwG2IwfzbJC_yLrpgiRg/edit?usp=sharing&ouid=111130236307228250080&rtpof=true&sd=true
+
 # Curso de Python 2.
 ## Examen 1.-
 <img src="https://i.postimg.cc/pTpsRN0s/Imagen-de-Whats-App-2025-02-23-a-las-22-09-32-11abdce0.jpg" width="250"/>
